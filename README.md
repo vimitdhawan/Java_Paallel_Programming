@@ -1,1 +1,1 @@
-# Java_Parllel_Programming
+# Java_Parallel_Programming
